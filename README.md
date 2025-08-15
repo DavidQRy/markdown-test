@@ -91,7 +91,7 @@ helloWord(myName)
 
 ![visual studio code logo](./vscode.png "vscode logo")
 <!-- HTML dentro de MARKDOWN -->
-<img src="./vscode.png" width="500" height="300">
+<img src="./vscode.png" width="500">
 
 <!-- GITHUB MARKDOWN -->
 * [x] Task 1
